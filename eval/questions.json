@@ -1,0 +1,22 @@
+[
+  {"q": "How do I declare a query parameter with a default value?", "files": ["tutorial/query-params.md"]},
+  {"q": "How do I make a query parameter optional?", "files": ["tutorial/query-params.md"]},
+  {"q": "How do I add a path parameter to a route?", "files": ["tutorial/path-params.md"]},
+  {"q": "How do I receive a JSON request body?", "files": ["tutorial/body.md"]},
+  {"q": "How do I limit the maximum length of a query string parameter?", "files": ["tutorial/query-params-str-validations.md"]},
+  {"q": "How do I upload a file?", "files": ["tutorial/request-files.md"]},
+  {"q": "What is dependency injection in FastAPI?", "files": ["tutorial/dependencies/index.md"]},
+  {"q": "How do I enable CORS?", "files": ["tutorial/cors.md"]},
+  {"q": "How do I run a task in the background after returning a response?", "files": ["tutorial/background-tasks.md"]},
+  {"q": "How do I return a custom error with a status code?", "files": ["tutorial/handling-errors.md"]},
+  {"q": "How do I filter which fields are returned in a response?", "files": ["tutorial/response-model.md"]},
+  {"q": "How do I test my app?", "files": ["tutorial/testing.md"]},
+  {"q": "How do I serve static files?", "files": ["tutorial/static-files.md"]},
+  {"q": "How do I read a header value from the request?", "files": ["tutorial/header-params.md"]},
+  {"q": "How do I run code at application startup?", "files": ["advanced/events.md"]},
+  {"q": "How do I package my app in a Docker container?", "files": ["deployment/docker.md"]},
+  {"q": "What is the capital of France?", "files": []},
+  {"q": "How do I train a neural network in PyTorch?", "files": []},
+  {"q": "Who won the 2018 football world cup?", "files": []},
+  {"q": "How do I configure a Kubernetes ingress controller?", "files": []}
+]

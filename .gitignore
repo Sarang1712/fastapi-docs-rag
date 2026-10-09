@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+
+# Keep project data if you want it tracked; remove the next line only if you don't want local generated data in Git.
+# data/
+
+data/app.db
+data/index_*.faiss
+data/chunks_*.json
+data/docs/
+
+data/app.db
+data/index_*.faiss
+data/chunks_*.json
+data/docs/
